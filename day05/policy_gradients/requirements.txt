@@ -3,3 +3,4 @@ http://download.pytorch.org/whl/cu80/torch-0.2.0.post3-cp27-cp27mu-manylinux1_x8
 torchvision
 gym
 
+pillow>=8.1.0 # not directly required, pinned by Snyk to avoid a vulnerability
