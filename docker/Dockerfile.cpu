@@ -1,6 +1,6 @@
 #FROM ubuntu:16.04
 # FROM jfinmetrix/rhadley_ubuntu
-FROM ubuntu:trusty
+FROM ubuntu:trusty-20190425
 #FROM debian:stretch
 
 #FROM nvidia/cuda:8.0-devel-ubuntu16.04
